@@ -1,4 +1,4 @@
-package activity
+package recyclerview
 
 /**
  * Created by rohit.k on 1/28/2015.

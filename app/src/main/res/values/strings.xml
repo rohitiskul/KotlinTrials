@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinTrials</string>
+    <string name="activity_flickr_feed_main_image_desc">Flickr image from public feed</string>
 </resources>

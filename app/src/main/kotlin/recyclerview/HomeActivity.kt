@@ -1,4 +1,4 @@
-package activity
+package recyclerview
 
 import android.os.Bundle
 import github.rohit.kotlintrials.R
